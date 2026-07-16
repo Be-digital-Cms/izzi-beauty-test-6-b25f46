@@ -6,7 +6,7 @@
       "text": "Onze scherpste aanbiedingen op een rij — profiteer van tijdelijke kortingen op opleidingen, behandelingen en combideals van IZZI Beauty.",
       "breadcrumb": "Best Offers"
     },
-    "image": "",
+    "image": "/media/IZZI-Beauty-PMU-Academy-en-Salon-3.webp",
     "intro": "Bij IZZI Beauty geloven we dat topkwaliteit toegankelijk mag zijn. Op deze pagina bundelen we onze meest voordelige deals, zodat jij kunt profiteren van de beste prijs op zowel opleidingen als behandelingen.",
     "body": [
       {
@@ -33,27 +33,60 @@
     "steps": {
       "title": "Zo profiteer je van een aanbieding",
       "items": [
-        { "title": "Kies je deal", "text": "Bekijk de actuele aanbiedingen en kies de deal die bij je past." },
-        { "title": "Neem contact op", "text": "Vraag naar de actievoorwaarden en beschikbaarheid via contact." },
-        { "title": "Plan je afspraak", "text": "We plannen samen je behandeling of opleiding in." },
-        { "title": "Profiteer", "text": "Geniet van topkwaliteit tegen een voordelige prijs." }
+        {
+          "title": "Kies je deal",
+          "text": "Bekijk de actuele aanbiedingen en kies de deal die bij je past."
+        },
+        {
+          "title": "Neem contact op",
+          "text": "Vraag naar de actievoorwaarden en beschikbaarheid via contact."
+        },
+        {
+          "title": "Plan je afspraak",
+          "text": "We plannen samen je behandeling of opleiding in."
+        },
+        {
+          "title": "Profiteer",
+          "text": "Geniet van topkwaliteit tegen een voordelige prijs."
+        }
       ]
     },
     "faq": {
       "title": "Veelgestelde vragen",
       "items": [
-        { "q": "Hoe lang zijn de aanbiedingen geldig?", "a": "Onze acties zijn tijdelijk en gelden zolang de voorraad strekt. Vraag naar de actuele geldigheidsduur." },
-        { "q": "Kan ik acties combineren?", "a": "Aanbiedingen kunnen doorgaans niet worden gecombineerd met andere acties of kortingen." },
-        { "q": "Geldt de korting ook op opleidingen?", "a": "Ja, we hebben regelmatig vroegboek- en combideals op geselecteerde opleidingen." }
+        {
+          "q": "Hoe lang zijn de aanbiedingen geldig?",
+          "a": "Onze acties zijn tijdelijk en gelden zolang de voorraad strekt. Vraag naar de actuele geldigheidsduur."
+        },
+        {
+          "q": "Kan ik acties combineren?",
+          "a": "Aanbiedingen kunnen doorgaans niet worden gecombineerd met andere acties of kortingen."
+        },
+        {
+          "q": "Geldt de korting ook op opleidingen?",
+          "a": "Ja, we hebben regelmatig vroegboek- en combideals op geselecteerde opleidingen."
+        }
       ]
     },
     "aside": {
       "factsTitle": "In het kort",
       "facts": [
-        { "k": "Type", "v": "Tijdelijke acties" },
-        { "k": "Geldig", "v": "Zolang voorraad strekt" },
-        { "k": "Combineerbaar", "v": "Nee" },
-        { "k": "UWV-subsidie", "v": "Mogelijk" }
+        {
+          "k": "Type",
+          "v": "Tijdelijke acties"
+        },
+        {
+          "k": "Geldig",
+          "v": "Zolang voorraad strekt"
+        },
+        {
+          "k": "Combineerbaar",
+          "v": "Nee"
+        },
+        {
+          "k": "UWV-subsidie",
+          "v": "Mogelijk"
+        }
       ],
       "ctaTitle": "Profiteer van een aanbieding",
       "ctaText": "Benieuwd naar de actuele deals? Neem contact met ons op voor de mogelijkheden.",
@@ -104,27 +137,60 @@
     "steps": {
       "title": "Opbouw van de opleiding",
       "items": [
-        { "title": "Theorie", "text": "Je start met de theoretische basis: huidkennis, pigmenten, kleurleer en hygiëne." },
-        { "title": "Techniek op oefenhuid", "text": "Je oefent de technieken eerst uitgebreid op oefenhuid." },
-        { "title": "Werken op modellen", "text": "Onder begeleiding voer je behandelingen uit op echte modellen." },
-        { "title": "Certificering", "text": "Na een succesvolle afronding ontvang je je certificaat." }
+        {
+          "title": "Theorie",
+          "text": "Je start met de theoretische basis: huidkennis, pigmenten, kleurleer en hygiëne."
+        },
+        {
+          "title": "Techniek op oefenhuid",
+          "text": "Je oefent de technieken eerst uitgebreid op oefenhuid."
+        },
+        {
+          "title": "Werken op modellen",
+          "text": "Onder begeleiding voer je behandelingen uit op echte modellen."
+        },
+        {
+          "title": "Certificering",
+          "text": "Na een succesvolle afronding ontvang je je certificaat."
+        }
       ]
     },
     "faq": {
       "title": "Veelgestelde vragen",
       "items": [
-        { "q": "Heb ik ervaring nodig?", "a": "Nee, deze opleiding is geschikt voor beginners. We beginnen bij de basis." },
-        { "q": "Kom ik in aanmerking voor UWV-subsidie?", "a": "In sommige gevallen wel. Vraag ernaar tijdens je intake, dan bekijken we de mogelijkheden." },
-        { "q": "Krijg ik een certificaat?", "a": "Ja, na een succesvolle afronding ontvang je een erkend certificaat." }
+        {
+          "q": "Heb ik ervaring nodig?",
+          "a": "Nee, deze opleiding is geschikt voor beginners. We beginnen bij de basis."
+        },
+        {
+          "q": "Kom ik in aanmerking voor UWV-subsidie?",
+          "a": "In sommige gevallen wel. Vraag ernaar tijdens je intake, dan bekijken we de mogelijkheden."
+        },
+        {
+          "q": "Krijg ik een certificaat?",
+          "a": "Ja, na een succesvolle afronding ontvang je een erkend certificaat."
+        }
       ]
     },
     "aside": {
       "factsTitle": "In het kort",
       "facts": [
-        { "k": "Niveau", "v": "Beginner" },
-        { "k": "Duur", "v": "In overleg" },
-        { "k": "Certificaat", "v": "Ja" },
-        { "k": "UWV-subsidie", "v": "Mogelijk" }
+        {
+          "k": "Niveau",
+          "v": "Beginner"
+        },
+        {
+          "k": "Duur",
+          "v": "In overleg"
+        },
+        {
+          "k": "Certificaat",
+          "v": "Ja"
+        },
+        {
+          "k": "UWV-subsidie",
+          "v": "Mogelijk"
+        }
       ],
       "ctaTitle": "Interesse in deze opleiding?",
       "ctaText": "Vraag de brochure aan of plan een vrijblijvend intakegesprek.",
