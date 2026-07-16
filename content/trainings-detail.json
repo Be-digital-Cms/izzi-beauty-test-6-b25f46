@@ -1,4 +1,75 @@
 {
+  "best-offers": {
+    "hero": {
+      "eyebrow": "Aanbiedingen",
+      "title": "Best Offers",
+      "text": "Onze scherpste aanbiedingen op een rij — profiteer van tijdelijke kortingen op opleidingen, behandelingen en combideals van IZZI Beauty.",
+      "breadcrumb": "Best Offers"
+    },
+    "image": "",
+    "intro": "Bij IZZI Beauty geloven we dat topkwaliteit toegankelijk mag zijn. Op deze pagina bundelen we onze meest voordelige deals, zodat jij kunt profiteren van de beste prijs op zowel opleidingen als behandelingen.",
+    "body": [
+      {
+        "heading": "Waarom deze aanbiedingen?",
+        "paragraphs": [
+          "We bieden regelmatig tijdelijke acties aan om nieuwe én bestaande klanten kennis te laten maken met ons volledige aanbod. Van instapkortingen tot voordelige combipakketten: er is altijd een deal die bij jou past.",
+          "Alle aanbiedingen zijn geldig zolang de voorraad strekt en kunnen niet worden gecombineerd met andere acties. Vraag naar de actievoorwaarden tijdens je intake of boeking."
+        ],
+        "checklist": [
+          "Introductiekorting op je eerste behandeling",
+          "Voordelige combideals: opleiding + startkit",
+          "Vroegboekkorting op geselecteerde opleidingen",
+          "Seizoensacties op populaire behandelingen",
+          "Mogelijk in aanmerking voor UWV-subsidie"
+        ]
+      },
+      {
+        "heading": "Voor wie zijn deze deals?",
+        "paragraphs": [
+          "Onze aanbiedingen zijn geschikt voor iedereen: van nieuwe klanten die kennis willen maken met onze behandelingen tot toekomstige PMU-artiesten die voordelig een opleiding willen volgen. Bekijk de actuele acties en profiteer nu."
+        ]
+      }
+    ],
+    "steps": {
+      "title": "Zo profiteer je van een aanbieding",
+      "items": [
+        { "title": "Kies je deal", "text": "Bekijk de actuele aanbiedingen en kies de deal die bij je past." },
+        { "title": "Neem contact op", "text": "Vraag naar de actievoorwaarden en beschikbaarheid via contact." },
+        { "title": "Plan je afspraak", "text": "We plannen samen je behandeling of opleiding in." },
+        { "title": "Profiteer", "text": "Geniet van topkwaliteit tegen een voordelige prijs." }
+      ]
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "q": "Hoe lang zijn de aanbiedingen geldig?", "a": "Onze acties zijn tijdelijk en gelden zolang de voorraad strekt. Vraag naar de actuele geldigheidsduur." },
+        { "q": "Kan ik acties combineren?", "a": "Aanbiedingen kunnen doorgaans niet worden gecombineerd met andere acties of kortingen." },
+        { "q": "Geldt de korting ook op opleidingen?", "a": "Ja, we hebben regelmatig vroegboek- en combideals op geselecteerde opleidingen." }
+      ]
+    },
+    "aside": {
+      "factsTitle": "In het kort",
+      "facts": [
+        { "k": "Type", "v": "Tijdelijke acties" },
+        { "k": "Geldig", "v": "Zolang voorraad strekt" },
+        { "k": "Combineerbaar", "v": "Nee" },
+        { "k": "UWV-subsidie", "v": "Mogelijk" }
+      ],
+      "ctaTitle": "Profiteer van een aanbieding",
+      "ctaText": "Benieuwd naar de actuele deals? Neem contact met ons op voor de mogelijkheden.",
+      "ctaLabel": "Neem contact op",
+      "ctaUrl": "/contact"
+    },
+    "cta": {
+      "script": "Pak nu je voordeel",
+      "title": "Profiteer van onze best offers",
+      "text": "Neem contact met ons op voor de actuele aanbiedingen en beschikbaarheid.",
+      "primaryLabel": "Neem contact op",
+      "primaryUrl": "/contact",
+      "secondaryLabel": "Bekijk alle opleidingen",
+      "secondaryUrl": "/opleidingen"
+    }
+  },
   "allround-pmu": {
     "hero": {
       "eyebrow": "Beginnersopleiding",
