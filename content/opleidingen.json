@@ -11,6 +11,13 @@
   },
   "groups": [
     {
+      "heading": "Best Offers",
+      "text": "Onze scherpste aanbiedingen op opleidingen en behandelingen.",
+      "items": [
+        { "title": "Best Offers", "meta": "Actie", "text": "Bekijk onze tijdelijke aanbiedingen en profiteer van de beste prijs.", "image": "", "url": "/opleidingen/best-offers", "linkLabel": "Bekijk aanbiedingen" }
+      ]
+    },
+    {
       "heading": "Wenkbrauwen opleidingen",
       "text": "De meest gevraagde technieken, van Powder Brows tot Combi Brows.",
       "items": [
